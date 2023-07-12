@@ -1,0 +1,15 @@
+{% extends 'main.html' %}
+
+{% block title %} Welcome to Online System {% endblock %}
+
+{% block top %}
+<a href="{% url 'OTS:registrationForm' %}">Signup</a>
+<a href="{% url 'OTS:login' %}">Login</a>
+{% endblock %}
+
+{% block content %}
+<div class="point">
+    <p>Welcome to online system</p>
+</div>
+{% endblock %}
+

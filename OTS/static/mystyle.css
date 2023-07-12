@@ -1,0 +1,26 @@
+
+body{
+    align-items: center;
+    min-height: 100vh;
+    background: url("https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg?auto=compress&cs=tinysrgb&w=1600") no-repeat;
+    background-size: cover;
+}
+.point{
+    color: rgb(149, 195, 149);
+    font-size: 30px;
+}
+
+.top{
+    height:50px;
+    background-color:#424837;
+    margin-bottom:20px;
+    padding:10px;
+    border-radius: 10px;
+    
+}
+.top div.menu a{
+    color:#acfb0f;
+    float: right;
+    margin-right: 20px;
+    min-width:15px;
+}

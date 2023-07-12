@@ -1,0 +1,19 @@
+.button-link{
+    width:200px;
+    height:40px;
+    background-color:#183c3e;
+    margin-bottom:20px;
+    padding:20px;
+    border-radius:5px;
+    text-align:center;
+    box-shadow:10px 10px;
+}
+.button-link a{
+    text-decoration :none;
+    color:rgb(244, 232, 232);
+    font-size:24px;
+}
+
+.sta{
+    color: rgb(172, 219, 207);
+}
